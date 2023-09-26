@@ -1,4 +1,4 @@
-#📊 Relatório de Vendas Elegante com Power BI
+📊 Relatório de Vendas Elegante com Power BI
 
 
 Desafio de projeto para análise dos dados do "Financial Sample" do Power BI com objetivo de detalhar volume de vendas e desempenho de determinados produtos.
